@@ -1,0 +1,11 @@
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\bin\Debug\ProcesamientoDatosSensores.exe
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\bin\Debug\ProcesamientoDatosSensores.pdb
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.Properties.Resources.resources
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.csproj.GenerateResource.Cache
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.exe
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.pdb
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.frmProcesamientoSensores.resources
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.csprojResolveAssemblyReference.cache
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.ucArchivosCompatibles.resources
+C:\TFS\Source\Soluciones\NuevoNocturno\ProcesamientoDatosSensores\obj\x86\Debug\ProcesamientoDatosSensores.frmArchivosCompatibles.resources
